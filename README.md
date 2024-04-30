@@ -1,52 +1,6 @@
-# h1 Heading
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+## Rebecca Nielsen
+
+###### Biography
+I am an independent researcher on issues of gender, conflict, and disability. I have previously worked as an assistant professor with the [Faculty of International, Political, and Urban Studies](https://urosario.edu.co/facultad-de-estudios-internacionales-politicos-y-urbanos) at Universidad del Rosario in Bogotá, Colombia and at the [Bush School of Government & Public Service](https://bush.tamu.edu/) at Texas A&M University. I graduated from the [Department of Political Science](https://politicalscience.yale.edu/) at Yale University, where I qualified in comparative politics, political economy, and quantitative methods. My doctoral research examined the effects of civil war violence on social networks and how this influences post-conflict political inclusion, especially for women. I conducted fieldwork for my dissertation in Liberia and Sierra Leone. My research has been supported by the Department of Defense Minerva Initiative, the Harry Frank Guggenheim Foundation, the National Science Foundation, and the Yale MacMillan Center for International Studies.
 
 
-## Horizontal Rules
-
----
-
-## Emphasis
-
-**This is bold text**
-
-__This is bold too__
-
-*This is italic text*
-
-_This is italic too_
-
-~~Strikethrough~~
-
-## Blockquotes
-
-> Blockquotes can be nested...
->> ... using additional signs
-> > > ... or with spaces between arrows
-
-## Lists
-
-+ Create a list
-+ Sublists with indent
-+     sublist
-     + sublist?
-      - testing
-
-## Tables
-| Option | Description |
-| ------ | ----------- |
-| data   | pat to data files.|
-
-## Links
-
-[link_text] (www.rebeccanielsen.net)
-
-[link_with_title] (www.rebeccanielsen.net "My Site")
-
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png)
